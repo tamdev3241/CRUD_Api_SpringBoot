@@ -1,0 +1,8 @@
+Start kafka:
+
+Step1: .\zookeeper-server-start.bat ..\..\config\zookeeper.properties
+
+Step2: .\kafka-server-start.bat ..\..\config\server.properties
+
+
+Setup PostgreSQL:
